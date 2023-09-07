@@ -1,4 +1,3 @@
-# MARKDOWN NOTES
 ## Headings: 
 - Headings level 1 to 6 can be given using the corresponding number of # signs.
 - Always put a space between # and heading name. Also, leave lines blank before and after the heading.
