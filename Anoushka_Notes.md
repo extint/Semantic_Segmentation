@@ -43,5 +43,5 @@ Add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent 
    - indented
    - list
 <br>
-To start an unordered list item with a number followed by a period, use a __backslash (\)__ to escape the period.
-To add another element in a list while preserving the continuity of the list, indent the element __four__ spaces or one tab.
+To start an unordered list item with a number followed by a period, use a **backslash (\)** to escape the period.
+To add another element in a list while preserving the continuity of the list, indent the element **four** spaces or one tab.
