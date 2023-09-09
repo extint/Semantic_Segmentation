@@ -1,2 +1,2 @@
-# Semantic_Segmentation_
+# Semantic_Segmentation
 Image Processing
