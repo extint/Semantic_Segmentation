@@ -1,0 +1,2 @@
+# ADE20K Dataset
+ 
