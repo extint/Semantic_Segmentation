@@ -12,7 +12,6 @@ Real-time implementation of Semantic Segmentation for traffic detection and auto
 -  [Flowchart](#Flowchart)
 -  [Results and Demo](#Results-and-Demo)
 -  [Future Work](#Future-Work)
--  [Mini Projects](#Mini-projects)
 -  [Contributors](#Contributors)
 -  [Acknowledgements and Resources](#Acknowledgements-and-Resources)
 
