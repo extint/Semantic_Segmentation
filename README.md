@@ -19,7 +19,7 @@ Real-time implementation of Semantic Segmentation for traffic detection and auto
 # About the Project
 Aim of semantic segmentation is to accurately classify each pixel in an image into specific object or class categories, facilitating detailed scene understanding for various computer vision applications.
 
-![Semantic Segmentation.png]()
+![Semantic Segmentation.png](https://github.com/Anoushka1009/Semantic_Segmentation/blob/main/Assets/Images/Semantic%20Segmentation.jpg)
 
 > (Add here about the finalized realtime model)
 ## Tech Stack
