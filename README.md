@@ -30,36 +30,6 @@ Aim of semantic segmentation is to accurately classify each pixel in an image in
 - [Pytorch](https://pytorch.org/)
 > (from tf and pytorch choose whichever is finalized for the model)
 ## File Structure
-```
-.📦
-├── 📂assets				    # Contains images and videos		
-│   ├── 📜images
-|   ├── 📜result.mp4
-├── 📂Clustering                            # contains code of kmeans and improved kmeans and its breif summary
-|   ├── 📜Improved.py
-|   ├── 📜K_Means.py 
-|   ├── 📜README.md
-├── 📂Initialization                        # codes and summary of initialization techniques
-|   ├── 📜KMeans_Plus.py
-|   ├── 📜README.md
-|   ├── 📜Random.py
-|   ├── 📜Subtractive_Clustering.py
-├── 📜main.py                               # module to run code of your choice
-├── 📂Processing                            # code to improve contrast
-|   ├── 📜pcs.py
-|   ├── 📜README.md 
-├── 📂Results                               # Project result
-|   ├── 📜Set1
-|   ├── 📜Set2
-|   ├── 📜Set3
-|   ├── 📜Set4
-|   ├── 📜Set5
-|   ├── 📜Set6
-├──  📂report				   # Project report
-|   └── 📜report.pdf		
-└──📜README.md		                   # Project readme
-```
-> Modify this file structure
 # Getting Started
 ## Prerequisites and installation
 - Download Python on your device if not already present. 
