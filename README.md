@@ -66,11 +66,11 @@ python3 <file_name>.py
 ```
 # Theory and Approach
 * We aim to use the **Convolutional Neural Network** approch over the traditional algorithms because CNNs can learn features automatically, work end-to-end, maintain spatial information, offer adaptability and transfer learning, and achieve state-of-the-art performance and hence are more effective and versatile for this task.
-To know more about CNNs, go through [this document](/-ZK0ztCFTj-bp6tUaRyjsQ)
+To know more about CNNs, go through [this document](https://github.com/Anoushka1009/Semantic_Segmentation/blob/d4b1e09b3fe3fc698ec354e0eeb075ec13a15f17/Implementation/Approach.md)
 
 * Overview of the architecture used: 
-(write in brief about the architecture)
-To learn more about the architecture used, click  [here](/1DEUUFKnSSeItjEf64O58Q)
+The architecture we've chosen for real-time semantic segmentation is **MobileNetV2** because its efficiency is achieved through a combination of architectural innovations and design choices that reduce the model's computational complexity and memory footprint without sacrificing too much in terms of performance. It's an excellent choice for tasks like image classification, object detection, and more on mobile and embedded devices.
+To learn more about the architecture used, click  [here](https://github.com/Anoushka1009/Semantic_Segmentation/blob/d4b1e09b3fe3fc698ec354e0eeb075ec13a15f17/Implementation/Architecture.md)
 
 # Results and Demo
 
@@ -87,6 +87,5 @@ We would sincerely like to express our heartfelt grattitude towards our mentors 
 ### Resources
  - [A Comprehensive Guide to Convolutional Neural Networks](https://www.v7labs.com/blog/convolutional-neural-networks-guide)
  - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
- - []
-
+ 
 
