@@ -77,13 +77,13 @@ To learn more about the architecture used, click  [here](https://github.com/Anou
 # Future Work
 
 # Contributors
-[Vedant Mehra]()
-[Abhi Mehta]() 
-[Anoushka Ruikar]()
+- [Vedant Mehra](https://github.com/extint)
+- [Abhi Mehta]() 
+- [Anoushka Ruikar](https://github.com/Anoushka1009)
 
 # Acknowledgements and Resources
 ### Acknowledgements
-We would sincerely like to express our heartfelt grattitude towards our mentors Smit Shah and Yatharth Dedhia for their valuable guidance throughout the project.
+
 ### Resources
  - [A Comprehensive Guide to Convolutional Neural Networks](https://www.v7labs.com/blog/convolutional-neural-networks-guide)
  - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
