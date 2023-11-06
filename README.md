@@ -9,7 +9,6 @@ Real-time implementation of Semantic Segmentation for traffic detection and auto
   - [Installation](#Installation)
   - [Execution](#Execution)
 - [Theory and Approach](#Theory-and-Approach)
--  [Flowchart](#Flowchart)
 -  [Results and Demo](#Results-and-Demo)
 -  [Future Work](#Future-Work)
 -  [Contributors](#Contributors)
@@ -72,3 +71,22 @@ To know more about CNNs, go through [this document](/-ZK0ztCFTj-bp6tUaRyjsQ)
 * Overview of the architecture used: 
 (write in brief about the architecture)
 To learn more about the architecture used, click  [here](/1DEUUFKnSSeItjEf64O58Q)
+
+# Results and Demo
+
+# Future Work
+
+# Contributors
+[Vedant Mehra]()
+[Abhi Mehta]() 
+[Anoushka Ruikar]()
+
+# Acknowledgements and Resources
+### Acknowledgements
+We would sincerely like to express our heartfelt grattitude towards our mentors Smit Shah and Yatharth Dedhia for their valuable guidance throughout the project.
+### Resources
+ - [A Comprehensive Guide to Convolutional Neural Networks](https://www.v7labs.com/blog/convolutional-neural-networks-guide)
+ - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
+ - []
+
+
