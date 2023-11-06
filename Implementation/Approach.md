@@ -20,9 +20,3 @@ The general architecture of a CNN involves alternating convolutional and pooling
 6. **Softmax activation:** Activation functions like softmax are applied to generate probabilities for each class.
 
 7. **Output Layer:** The output layer produces the final predictions of the network. The number of neurons in this layer denotes the number of classes or categories in the classification task.
-
-# Architecture 
-## MobileNetV2
-MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. It is based on an inverted residual structure where the residual connections are between the bottleneck layers. The intermediate expansion layer uses lightweight depthwise convolutions to filter features as a source of non-linearity. As a whole, the architecture of MobileNetV2 contains the initial fully convolution layer with 32 filters, followed by 19 residual bottleneck layers. 
-
-![MobileNetV2]()
