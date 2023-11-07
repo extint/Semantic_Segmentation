@@ -78,11 +78,11 @@ To learn more about the architecture used, click  [here](https://github.com/Anou
 
 # Contributors
 - [Vedant Mehra](https://github.com/extint)
-- [Abhi Mehta]() 
+- [Abhi Mehta](https://github.com/MehtaAbhii) 
 - [Anoushka Ruikar](https://github.com/Anoushka1009)
 
 # Acknowledgements
- - COC VJTI ProjectX 2023
+ - [COC VJTI]() ProjectX 2023
  - Our mentors [Smit Shah](https://github.com/Smit1603) and [Yatharth Dedhia]() for their valuable mentorship throughout the project. 
 # Resources
  - [A Comprehensive Guide to Convolutional Neural Networks](https://www.v7labs.com/blog/convolutional-neural-networks-guide)
