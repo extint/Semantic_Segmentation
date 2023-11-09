@@ -1,0 +1,6 @@
+numpy
+tensorflow
+pytorch
+matplotlib
+cv2
+PIL
